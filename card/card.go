@@ -1,6 +1,6 @@
 package card
 
-import basics "github.com/nlsui/dccgo/basics"
+import basics "github.com/nlsui/dcggo/basics"
 
 type Card struct{
 	//ability
